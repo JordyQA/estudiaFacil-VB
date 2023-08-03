@@ -1,0 +1,138 @@
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.AssemblyReference.cache
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.aulasDisponibles.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.certificado_original.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Fin_Avanzado.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosInicial.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosPrimaria.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosSecundaria.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Login.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Resources.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nivelPreguntas_Primaria.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nivelPreguntas_Secundaria.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nombresApellidosCertificado.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.seleccionGrado.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.ventanPrincipal.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.GenerateResource.cache
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+D:\Escritorio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+D:\Escritorio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+D:\Escritorio\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.xml
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.xml
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_5.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_2.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_3.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_4.resources
+D:\Escritorio\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.xml
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.AssemblyReference.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._3años_5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._4años_5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final._5años_5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.aulasDisponibles.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.certificado_original.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Fin_Avanzado.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosInicial.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosPrimaria.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.GradosSecundaria.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Login.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Resources.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nivelPreguntas_Primaria.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nivelPreguntas_Secundaria.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.nombresApellidosCertificado.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Avanzado5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Medio5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasPrimaria_Principiante5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Avanzado5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Medio5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante2.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante3.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante4.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.preguntasSecundaria_Principiante5.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.seleccionGrado.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.ventanPrincipal.resources
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.GenerateResource.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.vbproj.CoreCompileInputs.cache
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.xml
+D:\Documentos\Estudios de programas\proyectos-terminado-enProceso\Proyecto del curso HERRAMIENTAS DE DESARROLLO\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb

@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F1A924D-0DB2-41E0-BC2A-61AC495F7A69}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto_Final.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto_Final</RootNamespace>
+    <AssemblyName>Proyecto_Final</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto_Final.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto_Final.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3años.Designer.vb">
+      <DependentUpon>3años.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3años.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3años_2.Designer.vb">
+      <DependentUpon>3años_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3años_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3años_3.Designer.vb">
+      <DependentUpon>3años_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3años_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3años_4.Designer.vb">
+      <DependentUpon>3años_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3años_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3años_5.Designer.vb">
+      <DependentUpon>3años_5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3años_5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4años.Designer.vb">
+      <DependentUpon>4años.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4años.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4años_2.Designer.vb">
+      <DependentUpon>4años_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4años_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4años_3.Designer.vb">
+      <DependentUpon>4años_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4años_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4años_4.Designer.vb">
+      <DependentUpon>4años_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4años_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4años_5.Designer.vb">
+      <DependentUpon>4años_5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4años_5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5años.Designer.vb">
+      <DependentUpon>5años.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5años.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5años_2.Designer.vb">
+      <DependentUpon>5años_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5años_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5años_3.Designer.vb">
+      <DependentUpon>5años_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5años_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5años_4.Designer.vb">
+      <DependentUpon>5años_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5años_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5años_5.Designer.vb">
+      <DependentUpon>5años_5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5años_5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aulasDisponibles.Designer.vb">
+      <DependentUpon>aulasDisponibles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aulasDisponibles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cantidadFormularios.vb" />
+    <Compile Include="certificado_original.Designer.vb">
+      <DependentUpon>certificado_original.vb</DependentUpon>
+    </Compile>
+    <Compile Include="certificado_original.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fin_Avanzado.Designer.vb">
+      <DependentUpon>Fin_Avanzado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fin_Avanzado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GradosInicial.Designer.vb">
+      <DependentUpon>GradosInicial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GradosInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GradosPrimaria.Designer.vb">
+      <DependentUpon>GradosPrimaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GradosPrimaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GradosSecundaria.Designer.vb">
+      <DependentUpon>GradosSecundaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GradosSecundaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="nivelPreguntas_Primaria.Designer.vb">
+      <DependentUpon>nivelPreguntas_Primaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nivelPreguntas_Primaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nivelPreguntas_Secundaria.Designer.vb">
+      <DependentUpon>nivelPreguntas_Secundaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nivelPreguntas_Secundaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nombresApellidosCertificado.Designer.vb">
+      <DependentUpon>nombresApellidosCertificado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nombresApellidosCertificado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Avanzado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado2.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Avanzado2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado3.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Avanzado3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado4.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Avanzado4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado5.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Avanzado5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Avanzado5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Medio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio2.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Medio2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio3.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Medio3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio4.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Medio4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio5.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Medio5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Medio5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Principiante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante2.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Principiante2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante3.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Principiante3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante4.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Principiante4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante5.Designer.vb">
+      <DependentUpon>preguntasPrimaria_Principiante5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasPrimaria_Principiante5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Avanzado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado2.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Avanzado2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado3.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Avanzado3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado4.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Avanzado4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado5.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Avanzado5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Avanzado5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Medio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio2.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Medio2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio3.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Medio3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio4.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Medio4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio5.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Medio5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Medio5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Principiante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante2.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Principiante2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante3.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Principiante3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante4.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Principiante4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante5.Designer.vb">
+      <DependentUpon>preguntasSecundaria_Principiante5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preguntasSecundaria_Principiante5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seleccionGrado.Designer.vb">
+      <DependentUpon>seleccionGrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="seleccionGrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventana Principal.Designer.vb">
+      <DependentUpon>Ventana Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventana Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="3años.resx">
+      <DependentUpon>3años.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3años_2.resx">
+      <DependentUpon>3años_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3años_3.resx">
+      <DependentUpon>3años_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3años_4.resx">
+      <DependentUpon>3años_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3años_5.resx">
+      <DependentUpon>3años_5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4años.resx">
+      <DependentUpon>4años.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4años_2.resx">
+      <DependentUpon>4años_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4años_3.resx">
+      <DependentUpon>4años_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4años_4.resx">
+      <DependentUpon>4años_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4años_5.resx">
+      <DependentUpon>4años_5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5años.resx">
+      <DependentUpon>5años.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5años_2.resx">
+      <DependentUpon>5años_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5años_3.resx">
+      <DependentUpon>5años_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5años_4.resx">
+      <DependentUpon>5años_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5años_5.resx">
+      <DependentUpon>5años_5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aulasDisponibles.resx">
+      <DependentUpon>aulasDisponibles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="certificado_original.resx">
+      <DependentUpon>certificado_original.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fin_Avanzado.resx">
+      <DependentUpon>Fin_Avanzado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradosInicial.resx">
+      <DependentUpon>GradosInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradosPrimaria.resx">
+      <DependentUpon>GradosPrimaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradosSecundaria.resx">
+      <DependentUpon>GradosSecundaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nivelPreguntas_Primaria.resx">
+      <DependentUpon>nivelPreguntas_Primaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nivelPreguntas_Secundaria.resx">
+      <DependentUpon>nivelPreguntas_Secundaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nombresApellidosCertificado.resx">
+      <DependentUpon>nombresApellidosCertificado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Avanzado.resx">
+      <DependentUpon>preguntasPrimaria_Avanzado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Avanzado2.resx">
+      <DependentUpon>preguntasPrimaria_Avanzado2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Avanzado3.resx">
+      <DependentUpon>preguntasPrimaria_Avanzado3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Avanzado4.resx">
+      <DependentUpon>preguntasPrimaria_Avanzado4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Avanzado5.resx">
+      <DependentUpon>preguntasPrimaria_Avanzado5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Medio.resx">
+      <DependentUpon>preguntasPrimaria_Medio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Medio2.resx">
+      <DependentUpon>preguntasPrimaria_Medio2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Medio3.resx">
+      <DependentUpon>preguntasPrimaria_Medio3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Medio4.resx">
+      <DependentUpon>preguntasPrimaria_Medio4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Medio5.resx">
+      <DependentUpon>preguntasPrimaria_Medio5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Principiante.resx">
+      <DependentUpon>preguntasPrimaria_Principiante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Principiante2.resx">
+      <DependentUpon>preguntasPrimaria_Principiante2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Principiante3.resx">
+      <DependentUpon>preguntasPrimaria_Principiante3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Principiante4.resx">
+      <DependentUpon>preguntasPrimaria_Principiante4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasPrimaria_Principiante5.resx">
+      <DependentUpon>preguntasPrimaria_Principiante5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Avanzado.resx">
+      <DependentUpon>preguntasSecundaria_Avanzado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Avanzado2.resx">
+      <DependentUpon>preguntasSecundaria_Avanzado2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Avanzado3.resx">
+      <DependentUpon>preguntasSecundaria_Avanzado3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Avanzado4.resx">
+      <DependentUpon>preguntasSecundaria_Avanzado4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Avanzado5.resx">
+      <DependentUpon>preguntasSecundaria_Avanzado5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Medio.resx">
+      <DependentUpon>preguntasSecundaria_Medio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Medio2.resx">
+      <DependentUpon>preguntasSecundaria_Medio2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Medio3.resx">
+      <DependentUpon>preguntasSecundaria_Medio3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Medio4.resx">
+      <DependentUpon>preguntasSecundaria_Medio4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Medio5.resx">
+      <DependentUpon>preguntasSecundaria_Medio5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Principiante.resx">
+      <DependentUpon>preguntasSecundaria_Principiante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Principiante2.resx">
+      <DependentUpon>preguntasSecundaria_Principiante2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Principiante3.resx">
+      <DependentUpon>preguntasSecundaria_Principiante3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Principiante4.resx">
+      <DependentUpon>preguntasSecundaria_Principiante4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preguntasSecundaria_Principiante5.resx">
+      <DependentUpon>preguntasSecundaria_Principiante5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seleccionGrado.resx">
+      <DependentUpon>seleccionGrado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventana Principal.resx">
+      <DependentUpon>Ventana Principal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wastebasket.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wednesday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wheat.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Y.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Z.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Airplane.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Angry.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\April.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\August.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ball.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Banana.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baseball.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basketball.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bear.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bus.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chair.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cheese.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cherry.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\December.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Door.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\E.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Earth.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eggs.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elephant.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\February.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fish.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Friday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Golf.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grapes.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gray.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Happy.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hearing.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hippopotamus.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\January.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\July.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\June.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jupiter.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\K.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\M.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\March.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mars.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\May.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Meat.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mercury.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Milk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monkey.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\N.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neptune.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\November.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\O.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\October.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pear.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pluto.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Q.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sad.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Saturday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Saturn.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scared.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\September.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ship.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sick.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sight.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smell.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soccer.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Strawberry.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sunday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Surprised.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Taste.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tennis.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thursday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tiger.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Touch.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Train.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tuesday.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turtle.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\U.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uranus.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Venus.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volleyball.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\W.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
