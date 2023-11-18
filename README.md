@@ -1,4 +1,4 @@
-# estudiaFacil-VB
+
 <h2>Software Estudia Facil</h2>
 desarrollado para que los niños aprendan Ingles mas dinámica, desarrollado en Visual Basuc
 Apollando en el desarrollo para los niños de colegio a que puedan aprender ingles de una menera mas facil y dinamica.
